@@ -1,4 +1,7 @@
 # FUTURE_CS_01
+
+## Canva Link: https://canva.link/vf8bppnr0n6g4r6
+
 ## scanme.nmap.org Vulnerability Assessment Report
 
 The passive vulnerability assessment of scanme.nmap.org identified 7 findings — none at Critical or High severity. The server is functional and has a basic firewall in place, but is running noticeably outdated software (Apache 2.4.7, OpenSSH 6.6.1p1) and is missing several HTTP security headers that are now considered baseline security hygiene.
